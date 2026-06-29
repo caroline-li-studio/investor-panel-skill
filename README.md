@@ -3,7 +3,7 @@
 > 让一家公司接受 26 位顶级投资者框架的共同审视。  
 > 不是一个 AI 分析师给答案，而是一场投资委员会辩论。
 
-![Investor Panel overview](assets/investor-panel-overview.svg)
+![Investor Panel overview](assets/investor-panel-hero.png)
 
 Investor Panel 是一个 Codex Skill。你把公司、股票、持仓或投资 thesis 交给它，它会让不同投资风格一起上桌：Buffett 看质量和护城河，Graham / Klarman 看安全边际，Damodaran 把故事翻译成数字，Taleb 找尾部风险，Druckenmiller / Soros 看宏观与流动性，Simons 追问统计证据，Serenity 拆供应链瓶颈。
 
