@@ -1,0 +1,129 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Investor Panel investment committee</title>
+  <desc id="desc">A polished investment committee illustration: one company thesis is reviewed by multiple investor lenses, producing votes, disagreement, kill criteria, and next checks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6f0e4"/>
+      <stop offset="0.54" stop-color="#edf3ef"/>
+      <stop offset="1" stop-color="#e8f0f7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="381" y1="140" x2="766" y2="511" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17352f"/>
+      <stop offset="1" stop-color="#243d63"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="19" flood-color="#1d2d2b" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" rx="34" fill="url(#bg)"/>
+  <path d="M90 585C226 512 345 613 474 520C586 439 598 326 723 304C845 283 919 372 1035 308C1116 263 1143 182 1200 136" stroke="#cbb98e" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+  <path d="M86 176C223 242 327 185 459 254C589 322 628 437 760 449C906 463 964 345 1101 405C1154 428 1190 476 1215 528" stroke="#9db4c7" stroke-width="3" stroke-linecap="round" opacity="0.62"/>
+
+  <g transform="translate(70 70)" filter="url(#shadow)">
+    <rect width="1140" height="580" rx="30" fill="#fffdf8" stroke="#d9d0bf"/>
+  </g>
+
+  <g transform="translate(105 110)">
+    <text x="0" y="30" fill="#18342f" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="850">One company. Many great investors. One sharper debate.</text>
+    <text x="0" y="62" fill="#5b645e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">Quality, valuation, macro, tail risk, quant evidence, catalysts, and supply-chain bottlenecks challenge each other before a verdict.</text>
+  </g>
+
+  <g transform="translate(109 218)">
+    <rect x="0" y="0" width="230" height="326" rx="22" fill="#f4ecdc" stroke="#d8c69f"/>
+    <text x="26" y="43" fill="#18342f" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="820">Company Thesis</text>
+    <text x="26" y="73" fill="#6b6253" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">what you want tested</text>
+
+    <rect x="26" y="108" width="178" height="62" rx="15" fill="#fffdf8" stroke="#dfd0ad"/>
+    <text x="47" y="137" fill="#17352f" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800">NVDA / AAPL / X</text>
+    <text x="47" y="157" fill="#777061" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">ticker, company, thesis</text>
+
+    <rect x="26" y="194" width="178" height="96" rx="15" fill="#fffdf8" stroke="#dfd0ad"/>
+    <path d="M51 230H176" stroke="#bca978" stroke-width="4" stroke-linecap="round"/>
+    <path d="M51 254H151" stroke="#bca978" stroke-width="4" stroke-linecap="round"/>
+    <path d="M51 278H164" stroke="#bca978" stroke-width="4" stroke-linecap="round"/>
+    <text x="49" y="217" fill="#17352f" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="760">Evidence</text>
+  </g>
+
+  <g transform="translate(398 155)">
+    <circle cx="255" cy="230" r="168" fill="#f0f3ef" stroke="#d6ddd4" stroke-width="2"/>
+    <circle cx="255" cy="230" r="92" fill="url(#panel)" filter="url(#shadow)"/>
+    <text x="191" y="212" fill="#fffaf0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" font-weight="850">Investor</text>
+    <text x="204" y="240" fill="#fffaf0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" font-weight="850">Panel</text>
+    <text x="198" y="270" fill="#cbdad2" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="650">26 lenses debate</text>
+
+    <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="780">
+      <g transform="translate(180 0)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#d7c8a6"/>
+        <text x="24" y="32" fill="#17352f">Buffett</text>
+      </g>
+      <g transform="translate(340 56)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#d7c8a6"/>
+        <text x="24" y="32" fill="#17352f">Munger</text>
+      </g>
+      <g transform="translate(360 195)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#c6d6df"/>
+        <text x="24" y="32" fill="#17352f">Damodaran</text>
+      </g>
+      <g transform="translate(292 336)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#c6d6df"/>
+        <text x="24" y="32" fill="#17352f">Taleb</text>
+      </g>
+      <g transform="translate(62 336)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#d7c8a6"/>
+        <text x="24" y="32" fill="#17352f">Simons</text>
+      </g>
+      <g transform="translate(0 195)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#c6d6df"/>
+        <text x="24" y="32" fill="#17352f">Marks</text>
+      </g>
+      <g transform="translate(20 56)">
+        <rect width="150" height="52" rx="15" fill="#fffdf8" stroke="#d7c8a6"/>
+        <text x="24" y="32" fill="#17352f">Graham</text>
+      </g>
+    </g>
+
+    <g stroke="#8ea49a" stroke-width="2.5" stroke-linecap="round" opacity="0.72">
+      <path d="M255 92V58"/>
+      <path d="M327 137L374 101"/>
+      <path d="M347 229H384"/>
+      <path d="M315 303L345 340"/>
+      <path d="M196 303L168 340"/>
+      <path d="M164 229H126"/>
+      <path d="M184 137L137 101"/>
+    </g>
+  </g>
+
+  <g transform="translate(915 218)">
+    <rect x="0" y="0" width="255" height="326" rx="22" fill="#eef5f6" stroke="#c6d4dd"/>
+    <text x="26" y="43" fill="#183650" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="820">Panel Output</text>
+    <text x="26" y="73" fill="#63717a" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">not just an answer</text>
+
+    <g transform="translate(26 106)">
+      <rect width="203" height="42" rx="13" fill="#fffdf8" stroke="#c7d8df"/>
+      <text x="18" y="27" fill="#183650" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="800">Votes + confidence</text>
+    </g>
+    <g transform="translate(26 162)">
+      <rect width="203" height="42" rx="13" fill="#fffdf8" stroke="#c7d8df"/>
+      <text x="18" y="27" fill="#183650" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="800">Consensus / disagreement</text>
+    </g>
+    <g transform="translate(26 218)">
+      <rect width="203" height="42" rx="13" fill="#fffdf8" stroke="#c7d8df"/>
+      <text x="18" y="27" fill="#183650" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="800">Risks + kill criteria</text>
+    </g>
+    <g transform="translate(26 274)">
+      <rect width="203" height="42" rx="13" fill="#f4c95d" stroke="#d5a93f"/>
+      <text x="18" y="27" fill="#17352f" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="850">Next checks</text>
+    </g>
+  </g>
+
+  <path d="M352 381H386" stroke="#8fa196" stroke-width="5" stroke-linecap="round"/>
+  <path d="M380 369L397 381L380 393" stroke="#8fa196" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M842 381H889" stroke="#8fa196" stroke-width="5" stroke-linecap="round"/>
+  <path d="M883 369L900 381L883 393" stroke="#8fa196" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(105 595)">
+    <rect width="1070" height="34" rx="17" fill="#f7f1e6" stroke="#ded2b8"/>
+    <text x="28" y="23" fill="#2f4540" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="720">The value is the disagreement: quality vs price, growth vs fragility, story vs evidence, conviction vs kill criteria.</text>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investor Panel"
+  short_description: "Multi-investor research panel"
+  default_prompt: "Use $investor-panel to analyze a company with a multi-investor research panel."
