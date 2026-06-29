@@ -5,13 +5,13 @@
 
 ![Investor Panel overview](assets/investor-panel-hero.png)
 
-Investor Panel 是一个 Codex Skill。你把公司、股票、持仓或投资 thesis 交给它，它会让不同投资风格一起上桌：Buffett 看质量和护城河，Graham / Klarman 看安全边际，Damodaran 把故事翻译成数字，Taleb 找尾部风险，Druckenmiller / Soros 看宏观与流动性，Simons 追问统计证据，Serenity 拆供应链瓶颈。
+Investor Panel 是一个通用的 AI / Agent Skill。你把公司、股票、持仓或投资 thesis 交给它，它会让不同投资风格一起上桌：Buffett 看质量和护城河，Graham / Klarman 看安全边际，Damodaran 把故事翻译成数字，Taleb 找尾部风险，Druckenmiller / Soros 看宏观与流动性，Simons 追问统计证据，Serenity 拆供应链瓶颈。
 
 真正的卖点不是“多一个结论”，而是**看到高手之间为什么不同意**：好公司是不是太贵？增长是不是被高估？便宜是不是价值陷阱？故事是不是没有证据？最大风险是不是足以一票否决？
 
 ## 一句话安装
 
-最简单的方式是把仓库链接交给 Codex，并让它安装完整技能目录：
+如果你用 Codex，最简单的方式是把仓库链接交给它，并让它安装完整技能目录：
 
 ```text
 请从这个仓库安装 Codex skills：

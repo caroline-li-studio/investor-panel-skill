@@ -1,6 +1,6 @@
 # Investor Panel Skill
 
-Investor Panel is a Codex / Agent Skill that puts one company in front of 26 distilled investor frameworks.
+Investor Panel is a general AI / Agent Skill that puts one company in front of 26 distilled investor frameworks.
 
 It is not one AI analyst giving one answer. It is an investment committee debate: Buffett on quality, Graham and Klarman on margin of safety, Damodaran on valuation, Taleb on tail risk, Druckenmiller and Soros on macro, Simons on statistical evidence, and Serenity on supply-chain bottlenecks.
 
@@ -105,7 +105,7 @@ Use $investor-panel to challenge this thesis: company X controls a scarce bottle
 
 ## Installation
 
-Copy the skill folder into a Codex skills directory:
+If you use Codex, copy the skill folder into a Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
@@ -141,4 +141,4 @@ skills/investor-panel/
 
 ## Status
 
-MVP skill implementation is complete and validates with the Codex skill validator.
+MVP skill implementation is complete and validates as an installable agent skill.
