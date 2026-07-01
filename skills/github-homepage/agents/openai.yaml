@@ -1,4 +1,0 @@
-interface:
-  display_name: "GitHub Homepage"
-  short_description: "Create clear, compelling GitHub project homepages"
-  default_prompt: "Use $github-homepage to create or improve a GitHub README homepage."
