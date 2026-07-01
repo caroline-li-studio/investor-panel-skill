@@ -2,3 +2,8 @@ ai-hedge-fund/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Local development notes and planning docs. Do not commit.
+.dev-docs/
+LOCAL_DEV_DOCS/
+*.local.md
