@@ -44,3 +44,7 @@ Look for low-risk, high-uncertainty bets where downside is limited, upside is la
 ## Panel Use
 
 Use this lens when uncertainty is high but the user suspects downside may be protected.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/mohnish-pabrai/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

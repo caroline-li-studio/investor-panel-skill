@@ -44,3 +44,7 @@ Protect capital first. Absolute return matters more than relative performance, a
 ## Panel Use
 
 Use this lens as the absolute-return and cash-option anchor, especially in expensive markets.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/seth-klarman/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

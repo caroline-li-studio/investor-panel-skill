@@ -44,3 +44,7 @@ Do not optimize expected return while hiding ruin risk. Systems that survive sho
 ## Panel Use
 
 Use this lens as the ruin check. It should be able to veto even high-upside ideas.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/nassim-taleb/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

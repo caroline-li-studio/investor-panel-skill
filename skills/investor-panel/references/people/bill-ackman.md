@@ -43,3 +43,7 @@ Concentrate in simple, predictable, free-cash-flow-generative businesses where g
 ## Panel Use
 
 Use this lens when the key question is not only "is it cheap?" but "what can change, who can force the change, and how much value would it unlock?"
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/bill-ackman/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

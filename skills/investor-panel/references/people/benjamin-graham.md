@@ -43,3 +43,7 @@ Investing is most defensible when price is materially below conservatively estim
 ## Panel Use
 
 Use this lens as the downside and margin-of-safety gate. It should be allowed to say "pass" even when growth investors are enthusiastic.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/benjamin-graham/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

@@ -44,3 +44,7 @@ The best opportunities appear when fundamentals, liquidity, policy, positioning,
 ## Panel Use
 
 Use this lens when timing, liquidity, and macro regime materially affect the investment outcome.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/stanley-druckenmiller/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

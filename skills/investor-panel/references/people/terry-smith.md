@@ -43,3 +43,7 @@ Own high-quality companies that earn high returns on capital, convert profits to
 ## Panel Use
 
 Use this lens for consumer staples, software, payments, healthcare, and other quality-compounder candidates.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/terry-smith/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

@@ -2,6 +2,8 @@
 
 Investor Panel is a general AI / Agent Skill that puts one company in front of 26 distilled investor frameworks.
 
+Each investor is now backed by a deep distilled framework pack: source map, decision framework, business quality rules, management checks, financial analysis, valuation discipline, risk/sell rules, and eval cases.
+
 It is not one AI analyst giving one answer. It is an investment committee debate: Buffett on quality, Graham and Klarman on margin of safety, Damodaran on valuation, Taleb on tail risk, Druckenmiller and Soros on macro, Simons on statistical evidence, and Serenity on supply-chain bottlenecks.
 
 The value is the disagreement. A company can be wonderful and overpriced, cheap and still a value trap, high-growth and fragile, or thematically attractive without evidence. Investor Panel is designed to surface those conflicts before producing a research-oriented synthesis.
@@ -123,12 +125,16 @@ skills/investor-panel/
 │   └── openai.yaml
 └── references/
     ├── evidence-pack.md
+    ├── evals/
     ├── investor-lenses.md
     ├── lens-creation.md
     ├── people-index.md
     ├── output-contract.md
     └── people/
-        └── one deep profile per investor lens
+        ├── compact profiles for 26 investor lenses
+        └── deep/
+            ├── PROFILE_SCHEMA.md
+            └── deep distilled framework packs for all 26 lenses
 ```
 
 ## Boundaries

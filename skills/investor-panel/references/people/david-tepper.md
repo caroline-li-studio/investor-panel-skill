@@ -43,3 +43,7 @@ The best distressed opportunities arise when the market prices panic but the cap
 ## Panel Use
 
 Use this lens for banks, cyclicals, restructurings, commodity stress, credit events, and market panics.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/david-tepper/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

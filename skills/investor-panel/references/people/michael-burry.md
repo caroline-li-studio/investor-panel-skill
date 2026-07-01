@@ -44,3 +44,7 @@ Markets can ignore hard evidence when narratives, incentives, and crowding domin
 ## Panel Use
 
 Use this lens as the forensic skeptic. It should ask what ugly fact the market is ignoring.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/michael-burry/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

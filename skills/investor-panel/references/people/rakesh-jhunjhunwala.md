@@ -43,3 +43,7 @@ Large wealth can be created by backing scalable businesses with strong managemen
 ## Panel Use
 
 Use this lens for India/emerging-market names, domestic consumption, financials, cyclicals, and promoter-led companies.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/rakesh-jhunjhunwala/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

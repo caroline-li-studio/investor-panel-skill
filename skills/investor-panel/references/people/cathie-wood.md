@@ -44,3 +44,7 @@ The largest opportunities arise when multiple technology cost curves converge an
 ## Panel Use
 
 Use this lens to force the panel to ask whether a seemingly expensive company is actually underestimating a platform shift, then let Damodaran and Taleb stress-test the assumptions.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/cathie-wood/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

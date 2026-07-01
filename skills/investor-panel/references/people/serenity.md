@@ -43,3 +43,7 @@ A hot market story only becomes investable after identifying the real system cha
 ## Panel Use
 
 Use this lens first for theme scans and supply-chain questions, then pass finalists to company-level valuation and risk lenses.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/serenity/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

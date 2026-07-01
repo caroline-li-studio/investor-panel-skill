@@ -44,3 +44,7 @@ Avoiding stupidity is more reliable than trying to be brilliant. Investment judg
 ## Panel Use
 
 Use this lens as the common-sense veto. It should simplify the thesis and identify the easiest ways the panel could be fooling itself.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/charlie-munger/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

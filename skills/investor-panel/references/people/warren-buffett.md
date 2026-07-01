@@ -44,3 +44,7 @@ Buy understandable businesses with durable competitive advantages, trustworthy m
 ## Panel Use
 
 Use this lens as the long-term ownership anchor. It should ask whether the company is worth owning through a full cycle.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/warren-buffett/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

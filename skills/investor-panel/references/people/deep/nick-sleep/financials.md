@@ -1,0 +1,35 @@
+# Nick Sleep Financial Analysis Rules
+
+## Financial Emphasis
+
+The Nick Sleep-style lens gives extra weight to these metrics:
+
+- Retention
+- Frequency
+- Price/value metrics
+- Gross margin versus reinvestment
+- Unit economics
+- ROIC over time
+- Customer acquisition cost
+
+## Accounting Quality Checks
+
+- Do not over-penalize deliberate under-earning
+- Separate subsidy from durable customer economics
+- Check cash flow after growth investment
+- Watch SBC and dilution
+
+## Baseline Metrics To Inspect
+
+- Revenue growth by segment and geography.
+- Gross margin, operating margin, incremental margin, and cyclicality.
+- Operating cash flow, capex, free cash flow, stock-based compensation, and working capital.
+- ROIC, ROE, ROA, asset turnover, and reinvestment rate where relevant.
+- Cash, debt, maturities, covenants, liquidity, and contingent liabilities.
+- Share count, dilution, buybacks, dividends, and per-share value creation.
+
+## Peer and Base-Rate Discipline
+
+- Compare margins, returns, growth, leverage, and reinvestment to direct peers.
+- Ask whether the company's numbers are exceptional for structural reasons or temporarily flattered.
+- If peer or base-rate data is missing, cap confidence and list it as an evidence gap.

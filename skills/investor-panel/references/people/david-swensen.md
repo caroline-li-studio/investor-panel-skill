@@ -44,3 +44,7 @@ The attractiveness of an asset depends on its portfolio role, governance, liquid
 ## Panel Use
 
 Use this lens when the question is "should this be in the portfolio?" rather than merely "is this security attractive?"
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/david-swensen/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

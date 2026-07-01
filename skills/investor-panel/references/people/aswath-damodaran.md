@@ -45,3 +45,7 @@ Value is a disciplined bridge between story and numbers. A thesis is not investa
 ## Panel Use
 
 Use this lens as the price discipline anchor. In debates, ask: "What must be true for today's price to be reasonable, and which assumption is most fragile?"
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/aswath-damodaran/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

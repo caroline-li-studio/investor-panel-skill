@@ -39,6 +39,51 @@ Use concise, evidence-backed outputs. Prefer tables for panel votes and comparis
 
 For full panels, include named investor lenses first, then specialist lenses only when they add material evidence. If the table gets long, keep each reason to one sentence and move detail into `Consensus`, `Disagreement`, or `Risks & Kill Criteria`.
 
+## Deep Panel Evidence Mode
+
+Use this when the request asks for a deep dive, named investor views, thesis challenge, hold/sell review, or source-backed panel reasoning.
+
+```markdown
+## Verdict
+[Research framing: Buy-research / Watch / Pass / Hold-review / Sell-risk / Too hard] - [one-sentence rationale]
+
+## Evidence Gate
+- Evidence quality: [Strong/Medium/Weak]
+- Currentness: [latest filing/date/price date if known]
+- Deep packs loaded: [investors and modules]
+- Main gaps: [missing facts that limit confidence]
+
+## Panel Map
+| Group | Lenses | Main contribution |
+|---|---|---|
+| Quality compounders | [lenses] | [quality/moat/management issue] |
+| Value / margin of safety | [lenses] | [downside/cheapness issue] |
+| Growth / innovation | [lenses] | [runway/adoption issue] |
+| Macro / cycle | [lenses] | [liquidity/cycle issue] |
+| Quant / evidence | [lenses] | [data/base-rate issue] |
+| Tail risk | [lenses] | [fragility/ruin issue] |
+| Supply chain | [lenses] | [scarce-layer issue] |
+
+## Investor Votes
+| Lens | Signal | Confidence | Thesis | Veto | Evidence needed |
+|---|---:|---:|---|---|---|
+
+## Debate
+- Strongest bullish case: [evidence-backed case]
+- Strongest bearish case: [evidence-backed case]
+- What would change minds: [facts that would move the panel]
+
+## Synthesis
+- Consensus: [where the panel agrees]
+- Disagreement: [where high-quality lenses conflict]
+- Key assumptions: [3-5 falsifiable assumptions]
+- Evidence gaps: [missing primary facts]
+- Risks and kill criteria: [what would break the thesis]
+- Next checks: [filings, metrics, sources, events]
+```
+
+In this mode, state which deep modules were actually loaded. Do not claim deep evidence if only the compact lens was used.
+
 ## Quick Screen
 
 Use this when the user wants a fast answer or evidence is light.

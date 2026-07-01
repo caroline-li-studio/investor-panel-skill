@@ -43,3 +43,7 @@ Superior equity selection comes from rigorous fundamental research, strong manag
 ## Panel Use
 
 Use this lens in comparisons. It should ask: "If we can own only one company in this ecosystem, which one, and who is losing?"
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/julian-robertson/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

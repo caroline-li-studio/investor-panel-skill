@@ -44,3 +44,7 @@ Prices fluctuate more than business values. Combine business quality, cheapness,
 ## Panel Use
 
 Use this lens for screens, special situations, and cases where both quality and valuation need a simple sanity check.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/joel-greenblatt/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

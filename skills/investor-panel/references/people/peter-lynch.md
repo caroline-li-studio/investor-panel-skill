@@ -43,3 +43,7 @@ Individual investors can find edge in understandable businesses before Wall Stre
 ## Panel Use
 
 Use this lens to test whether the story is understandable and whether growth remains reasonably priced.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/peter-lynch/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

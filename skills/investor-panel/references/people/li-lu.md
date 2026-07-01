@@ -44,3 +44,7 @@ Long-term ownership of high-quality companies can compound wealth when the busin
 ## Panel Use
 
 Use this lens for China/Asia names, owner-operated compounders, and governance-heavy situations.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/li-lu/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

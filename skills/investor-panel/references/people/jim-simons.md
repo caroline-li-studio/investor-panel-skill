@@ -44,3 +44,7 @@ Stories are hypotheses. Durable edge requires data, repeatability, out-of-sample
 ## Panel Use
 
 Use this lens to police evidence quality. It should often lower confidence rather than produce a directional vote.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/jim-simons/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

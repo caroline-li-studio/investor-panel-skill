@@ -43,3 +43,7 @@ Exceptional long-term investments come from companies with durable growth prospe
 ## Panel Use
 
 Use this lens when the company claims durable growth quality and needs evidence beyond reported numbers.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/phil-fisher/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

@@ -43,3 +43,7 @@ The best bargains often appear where pessimism is extreme, especially when inves
 ## Panel Use
 
 Use this lens when the panel may be too anchored to U.S. mega-cap or home-market assumptions.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/john-templeton/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

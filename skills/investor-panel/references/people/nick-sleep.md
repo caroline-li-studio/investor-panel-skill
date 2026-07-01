@@ -44,3 +44,7 @@ The most powerful compounders share scale benefits with customers, strengthening
 ## Panel Use
 
 Use this lens for platform, retail, marketplace, and subscription businesses where customer value and scale interact.
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/nick-sleep/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

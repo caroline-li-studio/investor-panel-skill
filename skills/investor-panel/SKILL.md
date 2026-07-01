@@ -38,12 +38,25 @@ For a full analysis:
 
 1. **Frame the case**: company, market, time horizon, user objective, and available evidence.
 2. **Run the lenses**: read `references/investor-lenses.md` and produce one distinct vote per relevant investor.
-3. **Deepen when needed**: for named-investor requests, deep dives, or thin short-lens reasoning, read `references/people-index.md` and the relevant `references/people/*.md` profiles.
+3. **Deepen when needed**: for named-investor requests, deep dives, thesis challenges, hold/sell reviews, or thin short-lens reasoning, read `references/people-index.md`, the relevant compact `references/people/*.md` profile, and the relevant deep pack modules under `references/people/deep/<investor>/`.
 4. **Debate the contradictions**: identify conflicts among quality, price, growth, macro, tail risk, and supply-chain evidence.
 5. **Synthesize**: read `references/output-contract.md` and produce the matching output mode.
 6. **Name falsifiers**: give kill criteria and next checks that would change the conclusion.
 
 For quick screens, use only the most relevant lenses and keep the answer short. For theme scans, rank value-chain layers before ranking companies.
+
+## Deep Pack Loading Protocol
+
+Use progressive disclosure:
+
+- **Quick screen**: read `references/investor-lenses.md`; read compact profiles only for named lenses.
+- **Standard deep company analysis**: read `references/people-index.md` plus compact profiles for all materially relevant investors; load deep modules only for the 5-9 lenses driving the conclusion or disagreement.
+- **Named investor request**: load that investor's `source-map.md`, `framework.md`, and whichever of `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, or `risk-and-sell.md` matches the user question.
+- **Thesis challenge or hold/sell review**: load `risk-and-sell.md` and `eval-cases.md` for the named or most relevant lenses.
+- **Persona quality or lens creation work**: load `references/people/deep/PROFILE_SCHEMA.md` and `references/lens-creation.md`.
+- **Skill evaluation or regression testing**: load `references/evals/persona-fidelity-benchmark.md`, `references/evals/panel-debate-benchmark.md`, and `references/evals/prompt-test-suite.md`.
+
+When a deep pack is loaded, the lens must output `Signal`, `Confidence`, `Thesis`, `Veto`, and `Evidence needed`. If a deep module is not loaded, do not pretend to have used it.
 
 ## Default Roster
 
@@ -91,7 +104,12 @@ Load only what is needed:
 
 - `references/investor-lenses.md`: concise rules for each investor framework.
 - `references/lens-creation.md`: method for adding or revising investor lenses.
-- `references/people-index.md`: map from investor names to deep source-backed profiles.
-- `references/people/*.md`: deep distilled profiles for each named investor or methodology lens.
+- `references/people-index.md`: map from investor names to compact profiles and deep packs.
+- `references/people/*.md`: compact distilled profiles for each named investor or methodology lens.
+- `references/people/deep/PROFILE_SCHEMA.md`: schema and quality bar for deep investor profile packs.
+- `references/people/deep/<investor>/*.md`: source-backed deep modules for framework, evidence standards, valuation, risks, and eval cases.
+- `references/evals/persona-fidelity-benchmark.md`: rubric for checking whether a lens behaves like a distinct decision framework.
+- `references/evals/panel-debate-benchmark.md`: rubric for checking whether the panel creates useful disagreement and next checks.
+- `references/evals/prompt-test-suite.md`: prompt-level regression cases covering deep dive, comparison, theme scan, thesis challenge, hold/sell review, and missing evidence.
 - `references/evidence-pack.md`: evidence checklist and normalized company packet.
 - `references/output-contract.md`: output formats for quick screen, deep dive, comparison, thesis challenge, hold/sell review, and theme scan.

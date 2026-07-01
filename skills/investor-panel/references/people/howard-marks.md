@@ -44,3 +44,7 @@ Superior investing requires second-level thinking: not just what will happen, bu
 ## Panel Use
 
 Use this lens to ask: "What is the market already assuming, and are we being paid enough for the risk?"
+
+## Deep Pack
+
+For source-backed deep analysis, load `people/deep/howard-marks/source-map.md` and then the specific deep modules needed: `framework.md`, `business-quality.md`, `management.md`, `financials.md`, `valuation.md`, `risk-and-sell.md`, and `eval-cases.md`.

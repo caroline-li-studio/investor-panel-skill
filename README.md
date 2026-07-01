@@ -7,6 +7,8 @@
 
 Investor Panel 是一个通用的 AI / Agent Skill。你把公司、股票、持仓或投资 thesis 交给它，它会让不同投资风格一起上桌：Buffett 看质量和护城河，Graham / Klarman 看安全边际，Damodaran 把故事翻译成数字，Taleb 找尾部风险，Druckenmiller / Soros 看宏观与流动性，Simons 追问统计证据，Serenity 拆供应链瓶颈。
 
+现在每位投资人都不只是一个“人物标签”，而是一套可加载的 deep distilled framework pack：来源地图、决策流程、商业质量、管理层、财务、估值、风险卖出和 eval cases。
+
 真正的卖点不是“多一个结论”，而是**看到高手之间为什么不同意**：好公司是不是太贵？增长是不是被高估？便宜是不是价值陷阱？故事是不是没有证据？最大风险是不是足以一票否决？
 
 ## 一句话安装
@@ -54,7 +56,7 @@ flowchart LR
 | 特殊情境与反共识 | Jim Simons, Michael Burry, Bill Ackman, Cathie Wood, David Swensen, Julian Robertson, Rakesh Jhunjhunwala |
 | 主题与供应链 | Serenity-style supply-chain research |
 
-每个投资者都有独立的深度蒸馏档案，包含来源骨架、核心心智模型、操作规则、证据要求、否决条件和盲区。
+每个投资者都有独立的深度蒸馏档案，并进一步拆成 8 个可按需加载的模块：`source-map`、`framework`、`business-quality`、`management`、`financials`、`valuation`、`risk-and-sell`、`eval-cases`。
 
 ## 适合问什么
 
@@ -101,12 +103,16 @@ skills/investor-panel/
 │   └── openai.yaml
 └── references/
     ├── evidence-pack.md
+    ├── evals/
     ├── investor-lenses.md
     ├── lens-creation.md
     ├── people-index.md
     ├── output-contract.md
     └── people/
-        └── 26 个深度蒸馏投资者档案
+        ├── 26 个 compact 投资者档案
+        └── deep/
+            ├── PROFILE_SCHEMA.md
+            └── 26 组 deep distilled framework packs
 ```
 
 ## 边界
